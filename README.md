@@ -1,3 +1,3 @@
 # SwiftMNCombine
 
-swift  m n combine
+swift  M N combine
